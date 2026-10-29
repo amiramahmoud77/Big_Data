@@ -3,20 +3,17 @@
 # 📊 Big Data Course Repository
 
 <img src="https://img.shields.io/badge/Course-Big%20Data-orange?style=for-the-badge&logo=apachehadoop" alt="Course">
-<img src="https://img.shields.io/badge/Tools-Python%20%2F%20MongoDB-green?style=for-the-badge&logo=python" alt="Tools">
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20MongoDB%20%7C%20NodeJS%20%7C%20Spark%20%7C%20Docker-blue?style=for-the-badge&logo=python" alt="Technologies">
 <img src="https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge&logo=git" alt="Status">
 
-*A dedicated repository for organizing, documenting, and tracking practical lab sessions, Python basics, and MongoDB database management for the Big Data course.*
+*A comprehensive repository for organizing practical lab sessions, source code, reference notes, and tutorials for the Big Data course.*
 
 </div>
 
 ---
 
 ## 📖 About Big Data
-**Big Data** refers to data sets whose size is beyond the ability of typical database software tools to capture, store, manage, and analyze. This course covers core concepts of processing large-scale datasets, programming fundamentals using Python, and handling NoSQL databases efficiently using MongoDB.
-
----
-
+**Big Data** focuses on storing, managing, processing, and analyzing massive datasets that traditional database software tools cannot handle. This course covers everything from programming fundamentals, NoSQL databases, backend integration, to distributed computing frameworks and containerization.
 ## 🛠️ Main Technologies & Tools
 * **Python (Jupyter Notebook):** Used for data manipulation, scripting, and programming basics.
 * **MongoDB:** A popular NoSQL database used to store, query, and manage large collections of unstructured or semi-structured data via shell commands.
