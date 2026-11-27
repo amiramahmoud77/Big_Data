@@ -72,10 +72,11 @@ Introduction to server-side JavaScript and backend development workflows with No
 ---
 
 ### 🔹 Section 7: Node.js Recap & Express with MongoDB (Section 7)
-Reviewing core Node.js concepts before integrating Express and MongoDB.
-- 📝 **Topics Covered:** Node.js core recap, server setup, and backend review notes.
+Reviewing core Node.js concepts and building backend APIs with Express.js and MongoDB integration.
+- 📝 **Topics Covered:** Node.js core recap, Express.js routing, REST APIs, and connecting Express with MongoDB.
 - 🔗 **Files & Resources:**
   - [📄 Recap Node.js Section 7 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/Recap%20Node%20js%20Section7.pdf) - Comprehensive Node.js recap notes.
+  - [📄 Express & MongoDB Section 7 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/Express_MongoDBSection7.pdf) - Backend integration and Express lab notes.
 
 ---
 
