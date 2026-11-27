@@ -63,6 +63,14 @@ Extended practical exercises and database management concepts in MongoDB.
 
 ---
 
+### 🔹 Section 6: Node.js Fundamentals (Section 6)
+Introduction to server-side JavaScript and backend development workflows with Node.js.
+- 📝 **Topics Covered:** Node.js runtime basics, modules, asynchronous programming, and backend lab exercises.
+- 🔗 **Files & Resources:**
+  - [📄 Node Section 6 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/Node_Section6.pdf) - Lab notes and Node.js examples.
+
+---
+
 ### 🔹 MongoDB Shell Commands Reference
 A comprehensive reference guide for interacting with MongoDB through the shell.
 - 📝 **Topics Covered:** Database creation, collection management, CRUD operations (Insert, Find, Update, Delete) via shell commands.
