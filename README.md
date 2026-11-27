@@ -14,9 +14,10 @@
 
 ## 📖 About Big Data
 **Big Data** focuses on storing, managing, processing, and analyzing massive datasets that traditional database software tools cannot handle. This course covers everything from programming fundamentals, NoSQL databases, backend integration, to distributed computing frameworks and containerization.
+
 ## 🛠️ Main Technologies & Tools
-* **Python (Jupyter Notebook):** Used for data manipulation, scripting, and programming basics.
-* **MongoDB:** A popular NoSQL database used to store, query, and manage large collections of unstructured or semi-structured data via shell commands.
+- **Python (Jupyter Notebook):** Used for data manipulation, scripting, and programming basics.
+- **MongoDB:** A popular NoSQL database used to store, query, and manage large collections of unstructured or semi-structured data via shell commands.
 
 ---
 
@@ -24,38 +25,49 @@
 
 ### 🔹 Section 1: Python Basics (Part 1)
 Introduction to Python programming language fundamentals tailored for data processing.
-* 📝 **Topics Covered:** Variables, Data Types, Basic Operations, and Control Flow.
-* 🔗 **Files & Resources:**
-  * [📓 Python Basics Section 1 (Jupyter Notebook)](https://github.com/amiramahmoud77/Big_Data/blob/main/Python_Basics_Section1.ipynb) - Practical code and exercises.
+- 📝 **Topics Covered:** Variables, Data Types, Basic Operations, and Control Flow.
+- 🔗 **Files & Resources:**
+  - [📓 Python Basics Section 1 (Jupyter Notebook)](https://github.com/amiramahmoud77/Big_Data/blob/main/Python_Basics_Section1.ipynb) - Practical code and exercises.
 
 ---
 
 ### 🔹 Section 2: Python Basics (Part 2)
 Advanced foundational concepts in Python for data handling.
-* 📝 **Topics Covered:** Functions, Data Structures (Lists, Dictionaries, Tuples), and Basic Scripting.
-* 🔗 **Files & Resources:**
-  * [📓 Python Basics Section 2 (Jupyter Notebook)](https://github.com/amiramahmoud77/Big_Data/blob/main/Python_Basics_Section2.ipynb) - Advanced python lab file..
+- 📝 **Topics Covered:** Functions, Data Structures (Lists, Dictionaries, Tuples), and Basic Scripting.
+- 🔗 **Files & Resources:**
+  - [📓 Python Basics Section 2 (Jupyter Notebook)](https://github.com/amiramahmoud77/Big_Data/blob/main/Python_Basics_Section2.ipynb) - Advanced python lab file.
 
 ---
 
 ### 🔹 Section 3: MongoDB Advanced Operations (Section 3)
 Diving deeper into MongoDB querying and database structuring.
-* 📝 **Topics Covered:** Advanced queries, filtering, and data handling in MongoDB.
-* 🔗 **Files & Resources:**
-  * [📄 MongoDB Section 3 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Section3.pdf) - Lab notes and structured queries.
+- 📝 **Topics Covered:** Advanced queries, filtering, and data handling in MongoDB.
+- 🔗 **Files & Resources:**
+  - [📄 MongoDB Section 3 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Section3.pdf) - Lab notes and structured queries.
 
 ---
 
 ### 🔹 Section 4: MongoDB Further Applications (Section 4)
 Continuation of practical NoSQL database operations and applications.
-* 📝 **Topics Covered:** Aggregations, indexing, and practical database scenarios.
-* 🔗 **Files & Resources:**
-  * [📄 MongoDB Section 4 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Section4.pdf) - Advanced lab applications.
-  * ### 🔹 MongoDB Shell Commands Reference
+- 📝 **Topics Covered:** Aggregations, indexing, and practical database scenarios.
+- 🔗 **Files & Resources:**
+  - [📄 MongoDB Section 4 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Section4.pdf) - Advanced lab applications.
+
+---
+
+### 🔹 Section 5: MongoDB Operations & Practice (Section 5)
+Extended practical exercises and database management concepts in MongoDB.
+- 📝 **Topics Covered:** Advanced document operations, data modeling, and hands-on lab tasks.
+- 🔗 **Files & Resources:**
+  - [📄 MongoDB Section 5 (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Section5.pdf) - Lab notes and practical exercises.
+
+---
+
+### 🔹 MongoDB Shell Commands Reference
 A comprehensive reference guide for interacting with MongoDB through the shell.
-* 📝 **Topics Covered:** Database creation, collection management, CRUD operations (Insert, Find, Update, Delete) via shell commands.
-* 🔗 **Files & Resources:**
-  * [📄 MongoDB Shell Commands Reference (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Shell_Commands_Reference.pdf) - Essential commands guide
+- 📝 **Topics Covered:** Database creation, collection management, CRUD operations (Insert, Find, Update, Delete) via shell commands.
+- 🔗 **Files & Resources:**
+  - [📄 MongoDB Shell Commands Reference (PDF File)](https://github.com/amiramahmoud77/Big_Data/blob/main/MongoDB_Shell_Commands_Reference.pdf) - Essential commands guide.
 
 ---
 
